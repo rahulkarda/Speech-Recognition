@@ -1,10 +1,10 @@
 ## Speech-Recognition
-A Speech Recognition web app that converts speech to text in real time built using Web Speech API.
+A Speech Recognition Web App that converts speech to text in real time built using Web Speech API.
 
 The site is live at : https://speech2text.netlify.app/
 
 <a target="_blank" href="https://speech2text.netlify.app/">
-          <img src="https://github.com/rahulkarda/rahulkarda/blob/main/images/speech2text.jpg?raw=true" width="100%" alt="Speech To Text Converter"/>
+          <img src="https://github.com/rahulkarda/Speech-Recognition/blob/main/images/speech2text.jpg?raw=true" width="100%" alt="Speech To Text Converter"/>
 </a>
 <br>
 
